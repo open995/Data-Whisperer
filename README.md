@@ -268,7 +268,7 @@ This project is open-source and available under the MIT License.
 
 ## ⚠️ Disclaimer
 
-Data Whisperer is designed for legitimate OSINT research and digital forensics. Always ensure you have proper authorization before analyzing data. The authors are not responsible for misuse of this tool.
+Data Whisperer is designed for legitimate OSINT research and digital forensics. Always ensure you have proper authorization before analyzing data. I am not responsible for misuse of this tool.
 
 ## 🙏 Acknowledgments
 
