@@ -1,0 +1,122 @@
+// Sample Data Dump for OSINT Analysis
+// Generated: 2024-01-15
+// Source: Multiple leaked databases and logs
+
+=== USER CREDENTIALS ===
+admin:P@ssw0rd123
+john.doe@example.com:SecurePass456
+alice.smith@techcorp.io:AliceInWonderland99
+bob_jones:MySecret2024
+support@helpdesk.net:Support!2024
+
+=== EMAIL ADDRESSES ===
+Contact: info@datawhisperer.io
+Sales: sales@techcorp.io  
+Support: support@helpdesk.net
+Report abuse to: abuse@securityops.com
+Personal: john.doe@example.com
+Alternative: j.doe@gmail.com
+Team lead: alice.smith@techcorp.io
+Developer: bob.martinez@devteam.co
+
+=== IP ADDRESSES & SERVERS ===
+Main server: 192.168.1.100
+Database: 10.0.0.50
+Web server: 203.0.113.42
+API endpoint: 198.51.100.25
+Backup: 192.0.2.150
+CDN: 151.101.1.140
+Load balancer: 172.16.254.1
+
+IPv6 addresses:
+Primary: 2001:0db8:85a3:0000:0000:8a2e:0370:7334
+Secondary: 2001:db8::8a2e:370:7334
+
+=== DOMAINS & URLS ===
+Website: https://www.datawhisperer.io/dashboard
+API: https://api.techcorp.io/v2/users
+Documentation: https://docs.helpdesk.net/guide
+Admin panel: http://admin.securityops.com/login
+Download: https://cdn.devteam.co/releases/v1.2.3.zip
+Repository: https://github.com/osint/data-whisperer
+Blog: https://blog.techcorp.io/2024/security-update
+
+=== FILE HASHES ===
+MD5 checksums:
+malware.exe: 5d41402abc4b2a76b9719d911017c592
+document.pdf: 098f6bcd4621d373cade4e832627b4f6
+backup.zip: 8277e0910d750195b448797616e091ad
+
+SHA1 hashes:
+virus.dll: 356a192b7913b04c54574d18c28d46e6395428ab
+config.xml: da39a3ee5e6b4b0d3255bfef95601890afd80709
+
+SHA256 signatures:
+firmware.bin: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+database.sql: 6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b
+installer.msi: d4735e3a265e16eee03f59718b9b5d03019c07d8b6c51f90da3a666eec13ab35
+
+SHA512:
+archive.tar.gz: cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e
+
+=== CRYPTOCURRENCY WALLETS ===
+Bitcoin addresses:
+1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa
+3J98t1WpEZ73CNmYviecrnyiWrnqRhWNLy
+bc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdq
+
+Ethereum wallets:
+0x742d35Cc6634C0532925a3b844Bc9e7595f0bEb0
+0xde0B295669a9FD93d5F28D9Ec85E40f4cb697BAe
+0x5aAeb6053F3E94C9b9A09f33669435E7Ef1BeAed
+
+=== PHONE NUMBERS ===
+Main office: +1-555-123-4567
+Support line: +1-800-555-0199
+International: +44 20 7123 4567
+Mobile: +1 (415) 555-0198
+Fax: +1.555.987.6543
+
+=== API KEYS & TOKENS ===
+API_KEY=sk_live_51HqK2jKl4m5n6o7p8q9r0s1t2u3v4w5x6y7z8
+api_secret: ghp_1234567890abcdefghijklmnopqrstuvwxyz
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c
+AWS_ACCESS_KEY: AKIAIOSFODNN7EXAMPLE
+
+=== LOG ENTRIES ===
+[2024-01-15 10:23:45] Login attempt from 203.0.113.42 - user: admin@techcorp.io
+[2024-01-15 10:24:12] Failed authentication for bob_jones from 192.0.2.150
+[2024-01-15 10:25:33] API request to https://api.techcorp.io/v2/users from 198.51.100.25
+[2024-01-15 10:26:01] Database connection established: mysql://admin:dbpass123@10.0.0.50:3306/production
+[2024-01-15 10:27:18] File uploaded: checksum=5d41402abc4b2a76b9719d911017c592
+[2024-01-15 10:28:45] Email sent to alice.smith@techcorp.io from support@helpdesk.net
+[2024-01-15 10:29:22] Bitcoin transaction: from 1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa
+
+=== NETWORK TRAFFIC ===
+DNS queries:
+- datawhisperer.io -> 203.0.113.42
+- api.techcorp.io -> 198.51.100.25
+- cdn.devteam.co -> 151.101.1.140
+
+Outbound connections:
+192.168.1.100:443 -> 203.0.113.42:80
+10.0.0.50:3306 -> 198.51.100.25:3306
+172.16.254.1:8080 -> 151.101.1.140:443
+
+=== ADDITIONAL INFORMATION ===
+Registered domains:
+- datawhisperer.io (registrant: admin@techcorp.io)
+- techcorp.io (tech contact: support@helpdesk.net)
+- devteam.co (admin: alice.smith@techcorp.io)
+
+Payment info:
+BTC wallet: bc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdq (balance: 0.5 BTC)
+ETH address: 0x742d35Cc6634C0532925a3b844Bc9e7595f0bEb0 (balance: 2.3 ETH)
+
+Contact references:
+Email john.doe@example.com for access
+Call +1-555-123-4567 for support
+Visit https://docs.helpdesk.net/guide for documentation
+
+=== END OF DUMP ===
+

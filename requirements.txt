@@ -1,0 +1,25 @@
+# Data Whisperer - OSINT Entity Extraction & Mapping Tool
+# Core Dependencies
+
+# Entity extraction
+tldextract>=3.4.0
+phonenumbers>=8.13.0
+
+# DNS lookups
+dnspython>=2.3.0
+
+# Graph and network analysis
+networkx>=3.0
+pyvis>=0.3.2
+
+# Utilities
+pyperclip>=1.8.2
+
+# Optional: For future GUI support
+# streamlit>=1.25.0
+# pandas>=2.0.0
+
+# Development and testing (optional)
+# pytest>=7.4.0
+# pytest-cov>=4.1.0
+
