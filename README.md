@@ -2,7 +2,7 @@
 
 **Professional OSINT Entity Extraction & Network Mapping Tool**
 
-Data Whisperer is an open-source intelligence (OSINT) tool that automatically extracts, classifies, and visualizes entities from unstructured text dumps. It transforms messy logs, pastebins, and raw data into structured reports and interactive network maps showing entity relationships.
+Data Whisperer is an intelligent OSINT data extraction and visualization framework that turns messy text dumps into structured intelligence — complete with interactive relationship maps and analytics.
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
 ![Python](https://img.shields.io/badge/python-3.8+-green.svg)
